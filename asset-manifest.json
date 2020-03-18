@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reacttestone/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reacttestone/static/js/main.f3cd2f4c.chunk.js",
+    "main.js.map": "/reacttestone/static/js/main.f3cd2f4c.chunk.js.map",
+    "runtime-main.js": "/reacttestone/static/js/runtime-main.9945d7ae.js",
+    "runtime-main.js.map": "/reacttestone/static/js/runtime-main.9945d7ae.js.map",
+    "static/js/2.3b2a13c9.chunk.js": "/reacttestone/static/js/2.3b2a13c9.chunk.js",
+    "static/js/2.3b2a13c9.chunk.js.map": "/reacttestone/static/js/2.3b2a13c9.chunk.js.map",
+    "index.html": "/reacttestone/index.html",
+    "precache-manifest.3744ac9bb4d700e1b35ae1136c8bf09b.js": "/reacttestone/precache-manifest.3744ac9bb4d700e1b35ae1136c8bf09b.js",
+    "service-worker.js": "/reacttestone/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reacttestone/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3b2a13c9.chunk.js.LICENSE.txt": "/reacttestone/static/js/2.3b2a13c9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reacttestone/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9945d7ae.js",
+    "static/js/2.3b2a13c9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f3cd2f4c.chunk.js"
+  ]
+}
